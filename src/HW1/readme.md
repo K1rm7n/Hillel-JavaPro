@@ -1,0 +1,1 @@
+Through this course I want to learn Java as well as possible and find a job related to development in this language in the future.
